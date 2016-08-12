@@ -131,6 +131,18 @@ footer {
   margin-left: 45%;
   margin-right: 45%;
 }
+
+.epics {
+ display: inline-block;
+ float: left;
+ margin-left: 25%;
+ margin-right: 50px;
+}
+.stories {
+  display: inline-block;
+  float: left;
+  margin
+}
 /*.line{
     width: 1px;
     height: 100px;

@@ -1,1 +1,19 @@
 <h1>Pivitol Tracker Stories</h1>
+
+
+<div class='epics'>
+<h1>EPICS</h1>
+<ul ng-repeat='epic in view.pivitolEpics'>
+ <li>{{epic.name}}</li>
+
+</ul>
+</div>
+<!-- <p>{{view.pivitolStories}}</p> -->
+<div class='stories'>
+ <h1>STORIES</h1>
+<ul ng-repeat='story in view.pivitolStories'>
+  <li>{{story.name}}</li>
+
+</ul>
+</div>
+<!-- <p>{{view.pivitolStories}}</p> -->
