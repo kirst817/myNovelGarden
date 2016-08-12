@@ -1,0 +1,21 @@
+{
+  "name": "myNovelGardenBrochure",
+  "version": "1.0.0",
+  "description": "A sneak peak to my capstone project in the form of a brochure made with angular and express.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirst817/myNovelGarden.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirst817/myNovelGarden/issues"
+  },
+  "homepage": "https://github.com/kirst817/myNovelGarden#readme"
+}
