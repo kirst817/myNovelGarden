@@ -1,0 +1,131 @@
+body {
+  background-color: lightgreen;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+#brochureTitle{
+  font-family: 'Lakki Reddy', cursive;
+  margin-left: 2%;
+  display: inline-block;
+}
+#brochureTitle a {
+  text-decoration: none;
+  color: black;
+}
+
+.sun {
+  color: yellow;
+}
+.drop {
+  color: royalblue;
+}
+
+#navigation-bar {
+  font-family: 'Lakki Reddy', cursive;
+  display: inline-block;
+  float: right;
+  margin-right: 2%;
+
+
+}
+#navigation-bar a {
+  text-decoration: none;
+  font-size: 25px;
+  color: black;
+}
+
+.mainImg {
+  border: 1px solid black;
+  height: 250px;
+  width:500px;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 30px;
+  display: inline-block;
+  float: right;
+
+}
+.secondImg {
+  border: 1px solid black;
+  height: 300px;
+  width:400px;
+  margin-left: 5%;
+  margin-right: 20%;
+  margin-top: 30px;
+  display: inline-block;
+  float: right;
+
+}
+
+.summary, .api, .stretch, .tech, .other {
+  border: 1px solid black;
+  width: 400px;
+  height: 200px;
+  background-color: white;
+}
+
+.summary {
+  margin-left: 10%;
+  width: 650px;
+  height: 100px;
+  padding: 10px;
+}
+
+.tech {
+  margin-left: 5%;
+  margin-top: 30px;
+  display: inline-block;
+  float: left;
+  width: 350px;
+  padding: 10px;
+}
+
+.api {
+  margin-left: 40%;
+  margin-top: 30px;
+  height: 100px;
+  padding: 10px;
+}
+
+.other {
+  margin-left: 10%;
+  margin-top: 30px;
+  height: 100px;
+  display: inline-block;
+  float: left;
+  padding: 10px;
+}
+
+.stretch {
+  margin-left: 5%;
+  margin-top: 20px;
+  padding: 10px;
+  width: 550px;
+  height: 250px;
+  display: inline-block;
+
+}
+
+footer {
+  margin-left: 45%;
+  margin-right: 45%;
+}
+/*.line{
+    width: 1px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+}*/
+
+ /*#line1{
+     top: 100px;
+    left: 50px;
+ }
+#line2{
+    top: 220px;
+    left: 150px;
+    height: 115px;
+    transform: rotate(120deg);
+        -webkit-transform: rotate(120deg);
+        -ms-transform: rotate(120deg);
+}*/
