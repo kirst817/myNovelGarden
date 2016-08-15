@@ -143,22 +143,12 @@ footer {
   float: left;
   margin
 }
-/*.line{
-    width: 1px;
-    height: 100px;
-    background-color: black;
-    position: absolute;
-}*/
-
- /*#line1{
-     top: 100px;
-    left: 50px;
- }
-#line2{
-    top: 220px;
-    left: 150px;
-    height: 115px;
-    transform: rotate(120deg);
-        -webkit-transform: rotate(120deg);
-        -ms-transform: rotate(120deg);
-}*/
+.about {
+  width: 650px;
+  margin-top: 2%;
+    margin-left: 20%;
+    text-align: center;
+}
+.hello {
+  text-align: center;
+}
