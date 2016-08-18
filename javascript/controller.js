@@ -1,6 +1,7 @@
 app.controller('brochureCtrl', function($scope, $http){
     $scope.view = {};
     $scope.view.message = "working!";
+    $scope.view.mess2 = "Yay!";
 
 
   $http({
